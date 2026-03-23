@@ -53,7 +53,7 @@
     <scope>runtime</scope>
 </dependency> -->
 
-		<!-- 2. PostgreSQL Driver Add karo -->
+		
 		<dependency>
 			<groupId>org.postgresql</groupId>
 			<artifactId>postgresql</artifactId>
